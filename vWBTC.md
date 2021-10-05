@@ -3,6 +3,6 @@
 |-------: | --------|
 |Compound | 0%     |
 |Compound Leverage | 0%  |
-|Maker vDAI | 98%     |
+|Maker vDAI | 95%     |
 |Aave | 0%     |
-|Pool buffer | 2%     |
+|Pool buffer | 5%     |

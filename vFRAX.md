@@ -8,3 +8,5 @@
 |Rari Fuse #36 | 10%     |
 |Aave | 0%     |
 |Pool buffer | 5%     |
+
+Pool limit: $25 million

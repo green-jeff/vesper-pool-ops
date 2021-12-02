@@ -1,7 +1,6 @@
 # vUSDT pool
 |Strategy | Weight |
 |-------: | --------|
-|Compound | 0%     |
-|CREAM | 0%     |
-|Aave | 95%     |
+|Compound | 95%     |
+|Aave | 0%     |
 |Pool buffer | 5%     |
